@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129427406469",
+    "project_id": "artvibes-app-fa095",
+    "storage_bucket": "artvibes-app-fa095.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129427406469:android:e45c1cf35981f1bfc873ec",
+        "android_client_info": {
+          "package_name": "com.example.artvibes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1pqM49q214mrFpmL_KHth-mh3Ai-zE5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
